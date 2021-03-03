@@ -1,2 +1,3 @@
-# NLP_workshop
-SP NLP workshop 20210309
+# NLP workshop
+by SP School of Computing
+Strictly used for internal purpose in Singapore Polytechnic. Do not disclose!
